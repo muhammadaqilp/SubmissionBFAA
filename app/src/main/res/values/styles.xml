@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextView_BlackTwo_Search">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextView.Tab">
+        <item name="textAllCaps">true</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextView.Bold">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextView.Bold.White">
+        <item name="android:textColor">@color/pure_white</item>
+    </style>
+
+    <style name="TextView.White">
+        <item name="android:textColor">@color/pure_white</item>
+    </style>
+
+    <style name="Toolbar_Title">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

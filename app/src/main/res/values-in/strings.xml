@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github User</string>
+    <string name="name_menu_settings">Pengaturan</string>
+    <string name="name_menu_favorite">Favorit</string>
+    <string name="search_hint">Ketik Nama Pengguna</string>
+    <string name="no_name">TIDAK ADA NAMA YANG DITAMPILKAN</string>
+    <string name="no_location">NO LOCATION DISPLAYED</string>
+    <string name="no_company">NO COMPANY DISPLAYED</string>
+    <string name="no_data">TIDAK ADA DATA YANG DAPAT DITAMPILKAN</string>
+    <string name="welcome_to_app">Selamat Datang di Github User App</string>
+    <string name="detail_user">Detail Pengguna</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="search_menu">Cari</string>
+    <string name="switch_theme">Mode Gelap</string>
+    <string name="switch_language">Ganti Bahasa</string>
+    <string name="no_follow">%1$d Mengikuti dan %2$d Diikuti</string>
+    <string name="favorite_user">Pengguna Favorit</string>
+
+    <plurals name="numberOfRepo">
+        <item quantity="one">%d repositori</item>
+        <item quantity="other">%d repositori</item>
+    </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github User</string>
+    <string name="name_menu_settings">Settings</string>
+    <string name="name_menu_favorite">Favorite</string>
+    <string name="search_hint">Type Username Here</string>
+    <string name="no_data">NO DATA CAN BE DISPLAY</string>
+    <string name="no_name">NO NAME DISPLAYED</string>
+    <string name="no_location">NO LOCATION DISPLAYED</string>
+    <string name="no_company">NO COMPANY DISPLAYED</string>
+    <string name="welcome_to_app">Welcome to Github User App</string>
+    <string name="detail_user">Detail User</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="search_menu">Search</string>
+    <string name="switch_theme">Dark Mode</string>
+    <string name="switch_language">Switch Language</string>
+    <string name="no_follow">%1$d Following and %2$d Followers</string>
+    <string name="favorite_user">Favorite User</string>
+
+    <plurals name="numberOfRepo">
+        <item quantity="one">%d repository</item>
+        <item quantity="other">%d repositories</item>
+    </plurals>
+</resources>
