@@ -9,3 +9,4 @@ This Application Features:
 5. Implement Android Architecture Component (ViewModel and LiveData)
 6. Using DataStore to save theme settings
 7. Implement Room to save data into favorite list
+8. Support Localization (IN-EN)
